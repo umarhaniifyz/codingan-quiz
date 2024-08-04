@@ -1,14 +1,26 @@
 const quizData = [
     {
-      question: "siapa nama lengkap umar",
-      options: ["jaki yusuf", "hanif wasyadat", "irfan alfariski", "steven"],
-      answer: "hanif wasyadat"
+      question: "Siapa yang menemukan hukum gravitasi?",
+      options: ["Albert Einstein", "Galileo Galilei", "Isaac Newton", "Umar Hanif Wasyadat"],
+      answer: "Isaac Newton"
     },
     {
-      question: "What is the largest planet in our solar system?",
-      options: ["Jupiter", "Saturn", "Mars", "Earth"],
-      answer: "Jupiter"
+      question: "Apa nama asli dari superhero Spider-Man?",
+      options: ["Bruce Wayne", " Peter Parker", "Clark Kent", "Tony Stark"],
+      answer: " Peter Parker"
     },
+    {
+      question: "Berapa banyak pemain di lapangan dalam tim sepak bola (termasuk kiper)?",
+      options: ["11", " 6", "17", "24"],
+      answer: "11"
+    },
+    {
+      question: "Siapa penyanyi lagu Shape of You?",
+      options: ["Ed Sheeran", "Justin Bieber", "Shawn Mendes", "Bruno Mars"],
+      answer: "Ed Sheeran"
+    },
+   
+    
     // Add more questions here...
   ];
   
