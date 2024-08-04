@@ -1,7 +1,7 @@
 const quizData = [
     {
       question: "siapa nama lengkap umar",
-      options: ["jaki yusuf", "hanif wasyadat", "irfan alfariski", "tumiyati"],
+      options: ["jaki yusuf", "hanif wasyadat", "irfan alfariski", "steven"],
       answer: "hanif wasyadat"
     },
     {
